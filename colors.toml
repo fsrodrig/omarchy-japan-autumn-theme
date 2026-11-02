@@ -1,0 +1,33 @@
+# Japan Autumn
+mode = "dark"
+
+accent = "#94a7ba"
+selection = "#d6c9b1"
+selection_foreground = "#090d15"
+muted = "#63666c"
+
+background = "#0c111d"
+dark_background = "#090d16"
+darker_background = "#06090f"
+lighter_background = "#242934"
+
+foreground = "#d6c9b1"
+dark_foreground = "#a19785"
+light_foreground = "#dcd1bd"
+bright_foreground = "#e0d7c5"
+
+red = "#eb5e3f"
+yellow = "#9d917a"
+orange = "#ee765c"
+green = "#727f6a"
+cyan = "#83a2a3"
+blue = "#94a7ba"
+magenta = "#a67665"
+brown = "#8f4737"
+
+bright_red = "#ef7f66"
+bright_yellow = "#c3b798"
+bright_green = "#94a489"
+bright_cyan = "#a5c9ca"
+bright_blue = "#b8cde5"
+bright_magenta = "#d09983"
